@@ -1,0 +1,11 @@
+
+–python:S1192D"QDefine a constant instead of duplicating this literal 'application/json' 9 times.(Â´Š8«™‰¬é1J$e13ed141-454d-41e4-87bf-0c3c42110221
+ªpython:S1192"_Define a constant instead of duplicating this literal 'å¯¼å‡ºå…¨éƒ¨å®Œæˆæƒ…å†µåå•' 3 times.(Ã¨£—øÿÿÿÿ8«™‰¬é1J$5977defc-3d59-477e-ba82-a7cce2039d5c
+¿python:S1192ƒ"tDefine a constant instead of duplicating this literal 'æŸ¥çœ‹å¹¶å¯¼å‡ºç‰¹å®šå­å›¢æ”¯éƒ¨å®Œæˆæƒ…å†µåå•' 3 times.(ï¤‘ÿÿÿÿÿ8«™‰¬é1J$8ac8178a-d8d5-4c4a-b65f-fdfeaa3f9096
+vpython:S5806Ç"+Rename this variable; it shadows a builtin.(Á”÷¦şÿÿÿÿ8«™‰¬é1J$190107f3-23f5-4804-8219-988c2aaff54d
+Lpython:S1481Ã",Remove the unused local variable "workbook".(¥©›î8‡®´¬é1
+Ÿpython:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(“íùÿÿÿÿ8«™‰¬é1J$094e02c2-767f-4eec-b9ed-a72e237eaee7
+Æpython:S1515±" Add a parameter to function "map_area" and use variable "id2name_dict" as its default value;The value of "id2name_dict" might change at the next loop iteration.(å†¶§úÿÿÿÿ8‡®´¬é1
+špython:S3776§"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(˜¤—Ç8¬™‰¬é1J$5d3d7aae-53b4-409e-adff-ab6be1366c4a
+ppython:S5806­"+Rename this variable; it shadows a builtin.(«ñ»8¬™‰¬é1J$8649fb47-067d-46a5-851e-30e9668248ed
+ipython:S125±"Remove this commented out code.(ÇòŸ ÿÿÿÿÿ8¬™‰¬é1J$f6e75f6d-ff84-46f4-91be-8200c1276c39
