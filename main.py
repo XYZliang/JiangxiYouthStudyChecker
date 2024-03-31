@@ -584,7 +584,6 @@ def main_menu():
             '获取组织人数信息',
             '获取组织详细信息',
             '查看/导出大学习信息',
-            '完成大学习',
             '退出'
         ]
         choice = questionary.select("请选择一个操作:", choices=choices).ask()
@@ -597,8 +596,6 @@ def main_menu():
             getOrgInfo(cookies, token, printInfo=True)
         elif choice == '查看/导出大学习信息':
             studyMenu(cookies, token)
-        elif choice == '完成大学习':
-            exit()
 
 
 if __name__ == "__main__":
